@@ -18,6 +18,18 @@
           android:layout_height="fill_parent"
          ads:adSize="BANNER"
          ads:adUnitId="a152d603b2d8b9a"
-           />    
+           >
 
+ 
+
+       </com.google.ads.AdView>    
+          <TextView
+               android:id="@+id/textView1"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_alignParentBottom="true"
+               android:layout_alignParentLeft="true"
+               android:layout_marginBottom="42dp"
+               android:layout_marginLeft="87dp"
+               android:text="abccccccccccccccccccccc" />
 </RelativeLayout>
